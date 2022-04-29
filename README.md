@@ -20,3 +20,5 @@ Megkötés(ek)
 
 Megjegyzés
 - a dominók szükség szerint megfordíthatók, illetve átrendezhetők
+
+![image](https://user-images.githubusercontent.com/25224122/165915888-80fce165-31bd-4853-ad0f-f212ac9e7f4e.png)
